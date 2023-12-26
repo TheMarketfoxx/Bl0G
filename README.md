@@ -14,7 +14,7 @@ Enabled dynamic, real-time content previews, significantly improving the editori
 Employed GROQ powered webhooks for on-demand revalidation, ensuring the website remains up-to-date with the latest content changes without compromising performance.
 Achievements:
 
-Successfully deployed a fully functional blog platform accessible at https://next-blog-sanity.vercel.app, demonstrating my capability in end-to-end project execution.
+Successfully deployed a fully functional blog platform accessible at (https://bl0-g.vercel.app/), demonstrating my capability in end-to-end project execution.
 Collaborated on diverse content management systems (CMS) including AgilityCMS, Builder.io, ButterCMS, and more, broadening my expertise across various platforms.
 Streamlined the content creation process with real-time previews and efficient publishing workflows, resulting in a marked increase in productivity and user satisfaction.
 Contributed to the development community by engaging in discussions, sharing insights, and providing support related to Next.js and Sanity implementations.
